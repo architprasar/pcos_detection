@@ -1,0 +1,8 @@
+{
+  optimizeDeps: {
+    entries: [
+      'C:/Users/91788/Desktop/pcos/front/index.html',
+      'C:/Users/91788/Desktop/pcos/front/src/main.jsx',
+    ]
+  }
+}
